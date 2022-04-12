@@ -1,5 +1,5 @@
 
-<img src="/assets/img/my_image.png" alt="my image" style="height: 200px; width:200px; border-radius: 50%"/>
+<img src="./assets/img/my_image.png" alt="my image" style="height: 200px; width:200px; border-radius: 50%"/>
 
 Sanjar Suyunov
 ==============
