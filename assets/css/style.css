@@ -354,7 +354,9 @@ img{
     font-size: 1.25rem;
 }
 
-
+#mask0 {
+    mask-type: alpha;
+}
 
 /*==================== BUTTONS ====================*/
 .button{
