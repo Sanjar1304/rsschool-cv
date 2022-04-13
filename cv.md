@@ -1,3 +1,4 @@
+<a href="https://sanjarsuyunov.netlify.app/">My CV website</a>
 
 <img src="./assets/img/my_image.png" alt="my image" style="height: 200px; width:200px; border-radius: 50%"/>
 
